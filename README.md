@@ -27,4 +27,4 @@ The project addresses the core requirements across all five rubric blocks:
 
 ---
 
-> **Peer Evaluation Statement:** The contribution percentages and task allocations above were mutually agreed upon by all team members following an internal peer review of code quality, experimental validation, and presentation delivery.
+> **Peer Evaluation Statement:** The contribution percentages and task allocations above were mutually agreed upon by all team members following an internal peer review of code quality, experimental validation, and presentation delivery. I was honest in order not to bias all the grades of my classmates, but I was generous.
