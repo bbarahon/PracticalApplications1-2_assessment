@@ -1,5 +1,9 @@
 ## 📊 Assessment & Peer Evaluation
 
+[![Weka](https://img.shields.io/badge/tool-Weka-2563eb)](https://www.cs.waikato.ac.nz/ml/weka/)
+[![Task](https://img.shields.io/badge/task-binary_classification-0f766e)](#the-question)
+[![Status](https://img.shields.io/badge/status-experiments_pending-d97706)](#project-status)
+
 This repository contains the peer evaluation for **Practical Applications 1+2**. Both the repository structure and the 8-minute presentation have been designed to align with the official evaluation rubric (1–5 scale across 5 blocks).
 
 ### 1. Assessment Criteria Alignment
